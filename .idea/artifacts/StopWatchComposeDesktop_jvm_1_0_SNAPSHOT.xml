@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StopWatchComposeDesktop-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/StopWatchComposeDesktop/build/libs</output-path>
+    <root id="archive" name="StopWatchComposeDesktop-jvm-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
