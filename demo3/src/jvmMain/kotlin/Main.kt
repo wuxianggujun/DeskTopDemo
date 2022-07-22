@@ -83,7 +83,7 @@ fun CardContent(name: Message) {
     ) {
         Column(modifier = Modifier.weight(1f).padding(12.dp)) {
             Text(text = name.title)
-            Text(text = name.body, style = MaterialTheme.typography.h4.copy(fontWeight = FontWeight.ExtraBold))
+            Text(text = name.body, style = MaterialTheme.typography.h6.copy(fontWeight = FontWeight.ExtraBold))
             if (expanded) {
                 Text(text = ("Composem ipsum color sit lazy, " + "padding theme elit,sed do bouncy.").repeat(4))
             }
