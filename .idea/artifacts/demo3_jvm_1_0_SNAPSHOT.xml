@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demo3-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/demo3/build/libs</output-path>
+    <root id="archive" name="demo3-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="demo3.jvmMain" />
+    </root>
+  </artifact>
+</component>
