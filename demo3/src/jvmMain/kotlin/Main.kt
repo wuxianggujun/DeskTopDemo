@@ -14,15 +14,18 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
+import ui.BasicsCodelabTheme
 
 @Composable
 @Preview()
 fun App() {
-    var shouldShowOnboard by rememberSaveable { mutableStateOf(true) }
-    if (shouldShowOnboard) {
-        onBoardingScreen(onContinueClicked = { shouldShowOnboard = false })
-    } else {
-        Greetings()
+    BasicsCodelabTheme {
+        var shouldShowOnboard by rememberSaveable { mutableStateOf(true) }
+        if (shouldShowOnboard) {
+            onBoardingScreen(onContinueClicked = { shouldShowOnboard = false })
+        } else {
+            Greetings()
+        }
     }
 
 }
