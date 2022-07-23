@@ -4,8 +4,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Java/gradle-7.5" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -13,8 +16,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/StopWatchComposeDesktop" />
+        <option name="gradleHome" value="D:/Java/gradle-7.5" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/StopWatchComposeDesktop" />
@@ -22,8 +28,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/demo1" />
+        <option name="gradleHome" value="D:/Java/gradle-7.5" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/demo1" />
@@ -31,8 +40,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/demo2" />
+        <option name="gradleHome" value="D:/Java/gradle-7.5" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/demo2" />
@@ -40,8 +52,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/demo3" />
+        <option name="gradleHome" value="D:/Java/gradle-7.5" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/demo3" />
