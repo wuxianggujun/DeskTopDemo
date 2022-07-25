@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Widgets-galley-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Widgets-galley/build/libs</output-path>
+    <root id="archive" name="Widgets-galley-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="Widgets-galley.jvmMain" />
+    </root>
+  </artifact>
+</component>
