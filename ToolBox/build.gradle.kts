@@ -26,7 +26,8 @@ kotlin {
         val jvmMain by getting {
             dependencies {
                 implementation(compose.desktop.currentOs)
-
+                // https://mvnrepository.com/artifact/org.jetbrains.compose.components/components-splitpane-desktop
+                implementation("org.jetbrains.compose.components:components-splitpane-desktop:1.1.1")
                 implementation("uk.co.caprica:vlcj:4.7.0")
             }
         }
