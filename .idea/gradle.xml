@@ -19,6 +19,18 @@
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/JumpPage" />
+        <option name="gradleHome" value="D:/Java/gradle-7.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/JumpPage" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/StopWatchComposeDesktop" />
         <option name="gradleHome" value="D:/Java/gradle-7.5" />
         <option name="modules">
@@ -28,6 +40,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/ToolBox" />
         <option name="gradleHome" value="D:/Java/gradle-7.5" />
@@ -38,6 +52,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Widgets-galley" />
         <option name="gradleHome" value="D:/Java/gradle-7.5" />
